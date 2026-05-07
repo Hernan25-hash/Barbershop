@@ -72,7 +72,7 @@ export function Footer() {
       {/* Developer */}
       <div className="mt-10 pt-8 border-t border-border flex flex-col items-center text-center gap-3">
         <img
-          src="/hernan.jpg"
+          src="/Hernan.jpg"
           alt="Developer"
           className="w-20 h-20 rounded-full object-cover border border-border"
         />
